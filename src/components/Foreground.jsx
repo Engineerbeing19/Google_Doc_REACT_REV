@@ -5,8 +5,6 @@ import {useRef} from 'react'
 function Foreground() {
 
         const ref= useRef(null);
-
-
         const data = [
         {   desc : "This is the Data for the shown card 1 below.", 
             filesize: "756kb", 
